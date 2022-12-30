@@ -4,5 +4,5 @@ Dosyayalama isimleri
 ![image](https://user-images.githubusercontent.com/38388188/210097773-6364eebe-a338-4287-8bcb-849a40e57c21.png)
 
 
+![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097888-928576a5-2507-49b0-a728-d05a2b5b3e79.jpeg)
 
-![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097640-c94d1298-11a1-41c9-a32c-458f5b0a110e.jpeg)
