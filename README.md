@@ -2,9 +2,9 @@
 ## Table of contents
 * [ Genel Bilgi ](#Genel-Bilgi )
 * [Teknoloji Pac.](#Teknoloji-Pac.)
-* [Setup | Kurulum](#Setup | Kurulum)
-* [Emulator Photo | Result](#Emulator Photo | Result)
-* [Detail | Design |Açıklama ](#Detail | Design |Açıklama )
+* [Setup | Kurulum](#Setup-Kurulum)
+* [Emulator Photo | Result](#Emulator-Photo-Result)
+* [Detail | Design |Açıklama ](#Detail-Design-Açıklama )
 
 ## Genel Bilgi 
 Bu proje Kotlin & Android Studio ile simple quiz app yapılmıştır.
