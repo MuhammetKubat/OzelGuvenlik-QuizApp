@@ -4,8 +4,11 @@ Dosyayalama isimleri
 ![image](https://user-images.githubusercontent.com/38388188/210097773-6364eebe-a338-4287-8bcb-849a40e57c21.png)
 
 
+<div style="width:60px ; height:60px">
+
 
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (4)](https://user-images.githubusercontent.com/38388188/210097939-801a4470-791b-4673-b9fe-3bb05c4eec13.jpeg "Title" {width=40px height=400px})
+  <div>
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097945-11624794-41ee-4ec9-b998-1b17fc9aa2b1.jpeg )
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (2)](https://user-images.githubusercontent.com/38388188/210097948-4635714f-ca69-43e0-b347-6258c4555f22.jpeg )
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (1)](https://user-images.githubusercontent.com/38388188/210097953-4a1f839e-dc98-470e-b4d0-7cdb0ca5bafd.jpeg)
