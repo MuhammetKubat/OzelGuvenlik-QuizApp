@@ -3,8 +3,12 @@ Kotlin & Android Studio
 Dosyayalama isimleri
 ![image](https://user-images.githubusercontent.com/38388188/210097773-6364eebe-a338-4287-8bcb-849a40e57c21.png)
 
+img[src*="[#thumbnail](https://user-images.githubusercontent.com/38388188/210097888-928576a5-2507-49b0-a728-d05a2b5b3e79.jpeg)"] {
+   width:150px;
+   height:100px;
+}
 
-![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097888-928576a5-2507-49b0-a728-d05a2b5b3e79.jpeg)
+![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097888-928576a5-2507-49b0-a728-d05a2b5b3e79.jpeg)<!-- src = link#https://user-images.githubusercontent.com/38388188/210097888-928576a5-2507-49b0-a728-d05a2b5b3e79.jpeg -->
 
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (4)](https://user-images.githubusercontent.com/38388188/210097939-801a4470-791b-4673-b9fe-3bb05c4eec13.jpeg)
 ![WhatsApp Image 2022-12-23 at 3 02 28 PM (3)](https://user-images.githubusercontent.com/38388188/210097945-11624794-41ee-4ec9-b998-1b17fc9aa2b1.jpeg )
