@@ -7,14 +7,14 @@
 ## Genel Bilgi 
 Bu proje Kotlin & Android Studio ile simple quiz app yapılmıştır.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Teknoloji Pac.	
+Proje bunlarla onuşturulmuştur;
+* 'androidx.core:core-ktx:1.7.0'
+* 'androidx.appcompat:appcompat:1.5.1'
+* 'com.google.android.material:material:1.7.0'
 	
-## Setup
-To run this project, install it locally using npm:
+## Setup | Kurulum
+To run this project, install it locally using git and AndroidStudio surecleri:
 
 ```
 $ git init
