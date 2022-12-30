@@ -1,0 +1,1127 @@
+[
+  {
+    "question": "1. Özel güvenlik görevlisi Ahmet’e amiri tarafından konusu suç teşkil eden emirverilmiştir. Ahmet ne yapmalıdır?",
+    "option1": "A) Verilen emri yazılı olarak istemelidir",
+    "option2": "B) Emri yerine getirmelidir",
+    "option3": "C) Konusu suç teşkil eden emir hiçbir surette yerine getirilmeyeceği için emre uymamalıdır",
+    "option4": "D) Verilen emir sözlü olsa da yerine getirmelidir",
+    "option5": "E) Özel güvenlik görevlisi olduğu için kimseden emir almamalıdır",
+    "answer": "C) Konusu suç teşkil eden emir hiçbir surette yerine getirilmeyeceği için emre uymamalıdır"
+  },
+  {
+    "question": " 2. 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre aşağıdakilerden hangileri, özel güvenlik görevlilerinin üçüncü kişilere verecekleri zararların tazmini amacıyla özel güvenlik malisorumluluk sigortası yaptırmakla zorunludur?",
+    "option1": "A) Özel hukuk tüzel kişileri ve özel güvenlik şirketleri",
+    "option2": "B) Özel güvenlik görevlilerinin kendileri",
+    "option3": "C) İl özel güvenlik komisyonu",
+    "option4": "D) İçişleri Bakanlığı",
+    "option5": "E) Özel güvenlik kimlik kartı veren ilgili valilik",
+    "answer": "A) Özel hukuk tüzel kişileri ve özel güvenlik şirketleri"
+  },
+  {
+    "question": "3. 2918 sayılı Karayolları Trafik Kanunu uyarınca sesli ikaz ve tepe lambası donanımı aşağıdaki hangi araçlarda olamaz?",
+    "option1": "A) İtfaiye araçlarında",
+    "option2": "B) Polis araçlarında",
+    "option3": "C)Sahil güvenlik araçlarında",
+    "option4": "D) Özel güvenlik hizmeti veren devriye araçlarında",
+    "option5": "E) Jandarma araçlarında",
+    "answer": "D) Özel güvenlik hizmeti veren devriye araçlarında"
+  },
+  {
+    "question": "4. Özel güvenlik görevlilerinin çalışma hayatına ilişkin hak ve ödevleri hangi kanunda düzenlenmiştir?",
+    "option1": "A) İcra ve İflas Kanunu",
+    "option2": "B) Bilgi Edinme Kanunu",
+    "option3": "C)Borçlar Kanunu",
+    "option4": "D) Türk Ticaret Kanunu",
+    "option5": "E) İş Kanunu",
+    "answer": "E) İş Kanunu"
+  },
+  {
+    "question": "5. Özel güvenlik görevlilerinin yetkileri 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da düzenlenmiştir. Bu kanun kapsamında özel güvenlik görevlilerine aşağıdaki yetkilerden hangisi verilmemiştir?",
+    "option1": "A) Olay yerini ve delilleri koruma",
+    "option2": "B) Eşyaları X-Ray cihazından veya benzeri güvenlik sistemlerinden geçirme",
+    "option3": "C)Zor kullanma",
+    "option4": "D) Parmak izi ve fotoğraf alma",
+    "option5": "E) Emanete alma",
+    "answer": "D) Parmak izi ve fotoğraf alma"
+  },
+  {
+    "question": "6. Özel güvenlik kapsamında korunan ve güvenliği sağlanan yerlerde can ve mal güvenliğinin ciddi şekilde tehlikeye düştüğü veya düşeceği anlaşıldığında, genel kolluğu kim görevlendirmeye yetkilidir?",
+    "option1": "A) Mülki idare amiri",
+    "option2": "B) Özel güvenlik görevlisi",
+    "option3": "C)Özel güvenlik şirket yöneticisi",
+    "option4": "D) Özel güvenlik sorumlusu",
+    "option5": "E) İl özel güvenlik komisyonu",
+    "answer": "A) Mülki idare amiri"
+  },
+  {
+    "question": "7. Bir kimseyi hukuka aykırı olarak bir yere gitmek veya bir yerde kalmak hürriyetinden yoksun bırakan kişiye, bir yıldan beş yıla kadar hapis cezası verilir.şeklindeki düzenleme hangi kanunda yer almaktadır?",
+    "option1": "A) Borçlar Kanunu",
+    "option2": "B) Türk Ticaret Kanunu",
+    "option3": "C)Türk Ceza Kanunu",
+    "option4": "D) Anayasa",
+    "option5": "E) Çek Kanunu",
+    "answer": "C)Türk Ceza Kanunu"
+  },
+  {
+    "question": "8. Özel güvenlik görevlisinin zor kullanması ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "option1": "A) Özel güvenlik görevlisinin kendisine veya başkasına yönelen bir saldırı olmalı",
+    "option2": "B) Saldırı özel güvenlik görevlisinin veya başkasının bir hakkına yönelik olmalı",
+    "option3": "C)Gerçekleşen, gerçekleşmesi veya tekrarı muhakkak haksız bir saldırı olmalı",
+    "option4": "D) Saldırıdan başka bir şekilde kurtulmak mümkün olmalı",
+    "option5": "E) Saldırıyı o anda, hal ve koşullara göre saldırı ile orantılı biçimde defetmek zorunluluğu olmalı",
+    "answer": "D) Saldırıdan başka bir şekilde kurtulmak mümkün olmalı"
+  },
+  {
+    "question": " 9. Aşağıdaki görevlilerden hangisi hukuki olarak genel ve özel kolluk görevlilerinden sayılmamaktadır?",
+    "option1": "A) Polis memurları",
+    "option2": "B) Orman muhafaza memurları",
+    "option3": "C)Belediye zabıta memurları",
+    "option4": "D) Özel güvenlik görevlileri",
+    "option5": "E) Köy ve kır bekçileri",
+    "answer": "D) Özel güvenlik görevlileri"
+  },
+  {
+    "question": " 10. Anayasamıza göre temel hak ve hürriyetler açısından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "option1": "A) Temel hak ve hürriyetler hiçbir şekil ve şartta kısıtlanamaz",
+    "option2": "B) Temel hak ve hürriyetler anayasada sayılan sebeplere bağlı olarak ancak kanunla sınırlanır",
+    "option3": "C)Temel hak ve hürriyetlerin özlerine dokunulamaz",
+    "option4": "D) Temel hak ve hürriyetler yabancılar için milletlerarası hukuka uygun olarak kanunla sınırlanabilir",
+    "option5": "E) Herkes kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir",
+    "answer": "A) Temel hak ve hürriyetler hiçbir şekil ve şartta kısıtlanamaz"
+  },
+  {
+    "question": " 11. Aşağıdakilerden hangisi il özel güvenlik komisyonunu oluşturan kişiler arasında değildir?",
+    "option1": "A) Vali yardımcısı",
+    "option2": "B) Belediye başkanlığı temsilcisi",
+    "option3": "C)İl emniyet müdürlüğü temsilcisi",
+    "option4": "D) İl jandarma komutanlığı temsilcisi",
+    "option5": "E) Ticaret odası başkanlığı temsilcisi",
+    "answer": "B) Belediye başkanlığı temsilcisi"
+  },
+  {
+    "question": " 12. Özel güvenlik görevlisi Mehmet, görev yaptığı kuruluşta bilgi ve eğitimi olduğu için mesai saatlerinde tesisin elektrik işlerini de yapmaya zorlanmaktadır. Durumun tespit edilmesi veya Mehmet’in şikayetçi olması durumunda, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında hangi işlem tesis edilecektir?",
+    "option1": "A) Herhangi bir işlem öngörülmemiştir",
+    "option2": "B) Mehmet uyarılacaktır",
+    "option3": "C)Mehmet’e idari para cezası uygulanacaktır",
+    "option4": "D) Kuruluşun özel güvenlik izin belgesi iptal edilecektir",
+    "option5": "E) Kuruluş yetkilisine idari para cezası uygulanacaktır",
+    "answer": "E) Kuruluş yetkilisine idari para cezası uygulanacaktır"
+  },
+  {
+    "question": " 13. Kural olarak, koruma ve güvenlik hizmetinde kullanılacak silah ve teçhizat aşağıdakilerden hangisi tarafından temin edilir?",
+    "option1": "A) Özel güvenlik hizmetinden faydalanacak kişi veya kuruluş",
+    "option2": "B) Özel güvenlik şirketi",
+    "option3": "C)Özel güvenlik görevlisi",
+    "option4": "D) Özel güvenlik komisyonu",
+    "option5": "E) İçişleri Bakanlığı",
+    "answer": "A) Özel güvenlik hizmetinden faydalanacak kişi veya kuruluş"
+  },
+  {
+    "question": " 14. Özel güvenlik görevlisi Cemil, görev yaptığı alışveriş merkezinde daha önce tartışma yaşadığı mağaza çalışanı Ebru’yu, asılsız olarak hırsızlık yaptığı gerekçesiyle yakalamış ve genel kolluğa bildirmiştir. Türk Ceza Kanunu’na göre özel güvenlik görevlisi Cemil’in aşağıdaki suçlardan hangisini işlemiştir?",
+    "option1": "A) Suç delillerini yok etme, gizleme veyadeğiştirme",
+    "option2": "B) Suç uydurma",
+    "option3": "C)Genel güvenliğin kasten tehlikeyesokulması",
+    "option4": "D) Güveni kötüye kullanma",
+    "option5": "E) Şantaj",
+    "answer": "B) Suç uydurma"
+  },
+  {
+    "question": " 15.Ev ve bahçe malzemeleri satan büyük bir mağazada görevli özel güvenlik görevlisi Mahmut, mağazada şiddet kullanarak reyon görevlisini darp ederekyaralayan müşteriyi zor kullanarak engellemiş ve etkisiz hale getirmiştir. Bu adli konu ile ilgili özel güvenlik görevlisi  Mahmut ilk olarak kimi bilgilendirmesi gerekmektedir?",
+    "option1": "A) Özel güvenlik şirket kurucusunu",
+    "option2": "B) Polis",
+    "option3": "C)Hakim",
+    "option4": "D) Vali",
+    "option5": "E) Mağaza yönetimi",
+    "answer": "B) Polis"
+  },
+  {
+    "question": " 16.6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun’un Ek Madde 1’inde yer alan hükme göre; ruhsatlı silahla girilemeyecek yerleri belirten şık hangisidir?",
+    "option1": "A) Lokanta ve restoranlar",
+    "option2": "B) Otobüs ile şehirlerarası seyahatler",
+    "option3": "C)Mahkeme salonları, akıl hastaneleri ve psikiyatri bölümleri, ceza ve tutukevleri",
+    "option4": "D) Gemi veya tren seyahatleri",
+    "option5": "E) AVM içindeki kapalı otoparklar ve belediyelere ait pazar alanları",
+    "answer": "C)Mahkeme salonları, akıl hastaneleri ve psikiyatri bölümleri, ceza ve tutukevleri"
+  },
+  {
+    "question": " 17.Aşağıdakilerden hangisinde silahlı özel güvenlik görevlisi çalıştırılmasına izin verilebilir?",
+    "option1": "A) Eğitim ve öğretim kurumlarında",
+    "option2": "B) Sağlık tesislerinde",
+    "option3": "C)Talih oyunları işletmelerinde",
+    "option4": "D) Para nakilleri esnasında",
+    "option5": "E) İçkili yerlerde",
+    "answer": "D) Para nakilleri esnasında"
+  },
+  {
+    "question": " 18.“5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un kapsamında kişi, kurum veya kuruluşların, özel koruma ve güvenlik hizmetini yerine getirmek amacıyla istihdam edilenkişilerdir.”Yukarıdaki cümle ile aşağıdakilerden hangisi tanımlanmıştır?",
+    "option1": "A) Polis",
+    "option2": "B) Jandarma",
+    "option3": "C)Sahil güvenlik",
+    "option4": "D) Özel kolluk görevlisi",
+    "option5": "E) Özel güvenlik görevlisi",
+    "answer": "E) Özel güvenlik görevlisi"
+  },
+  {
+    "question": " 19.Özel güvenlik görevlilerinin görev alanlarına ilişkin 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "option1": "A) Özel güvenlik görevlileri yetkilerini sadece görevli oldukları süre içinde vegörev alanlarında kullanabilirler",
+    "option2": "B) İl özel güvenlik komisyonları zorunlu hallerde özel güvenlik izni verilen yerlerde görev alanını genişletebilirler",
+    "option3": "C)Para ve değerli eşya nakli görevinde nakil güzergahı özel güvenlik görevlilerinin görev alanı sayılır",
+    "option4": "D) Görev yapılan yerin işletme sahipleri ve sorumluları özel güvenlik görevlilerinin görev alanını gerektiğinde doğrudan genişletebilirler",
+    "option5": "E) Kişi korumasında görevli özel güvenlik görevlilerinin görev alanı koruduğu kişi ile birlikte olduğunda ülke genelidir",
+    "answer": "D) Görev yapılan yerin işletme sahipleri ve sorumluları özel güvenlik görevlilerinin görev alanını gerektiğinde doğrudan genişletebilirler"
+  },
+  {
+    "question": " 21. Suçüstü halinde yakalamayı aşağıdakilerden hangisi ya da hangileri yapabilir? I-Kolluk kuvvetleri II-Özel güvenlik personeli III-Mağdur kişi",
+    "option1": "A) Yalnız I ",
+    "option2": "B) Yalnız III",
+    "option3": "C)I ve II",
+    "option4": "D) I ve III",
+    "option5": "E) I, II ve II",
+    "answer": "E) I, II ve II"
+  },
+  {
+    "question": " 21.Özel güvenlik görevlileri Okan ile Fuat, devriye görevi esnasında hangi davranışı yapmaları yanlıştır?",
+    "option1": "A) Bölgelerinden izinsiz ayrılabilirler",
+    "option2": "B) Bölgelerinde görünür şekilde görev yapmalıdırlar",
+    "option3": "C)Disiplinli ve caydırıcı olmalıdırlar",
+    "option4": "D) Vatandaşlarla iyi iletişim içerisinde bulunmalıdırlar",
+    "option5": "E) Aynı güzergahı kullanmamalıdırlar",
+    "answer": "A) Bölgelerinden izinsiz ayrılabilirler"
+  },
+  {
+    "question": " 22.Zor kullanma yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "option1": "A) Denge olmalıdır",
+    "option2": "B) Yasal olmalıdır",
+    "option3": "C) Mecbur kalınmalıdır",
+    "option4": "D) Direnişi kıracak ölçüde kademeli olarak kullanılmalıdır",
+    "option5": "E)Amaç direnenleri cezalandırmaktır",
+    "answer": "E)Amaç direnenleri cezalandırmaktır"
+  },
+  {
+    "question": " 23.Havaalanında özel güvenlik görevlisi Veli, giriş kapısında yolcunun üzerinde dedektörden sinyal sesi almıştır. Ziyaretçi üzerinde bir madde olmadığını iddia etmiştir. Özel güvenlik görevlisinin hangi uygulaması yanlış olur?",
+    "option1": "A) Sesin kaynağından emin olana kadar yolcu hiçbir şekilde içeri alınmaz",
+    "option2": "B) Polis gözetiminde elle arama yapılır",
+    "option3": "C) Gerektiğinde vücut tarama cihazına alınır",
+    "option4": "D) Polis gözetimi olmadan da elle arama yapılabilir",
+    "option5": "E)Vücudunda sağlık nedeniyle metal vb. var ise raporu ya da belgesi görülür",
+    "answer": "D) Polis gözetimi olmadan da elle arama yapılabilir"
+  },
+  {
+    "question": " 24.Stratejik bir tesiste görev yapan ÖGG Volkan ile Serdar’ın devriye öncesi görev alanı ve içerisindeki tesis, bina, personel ve vatandaşlar hakkında bilgi edinerek fikren ve ruhen göreve hazırlanmaları, devriye öncesi hangi hazırlık aşamasına girer?",
+    "option1": "A) Psikolojik hazırlık",
+    "option2": "B) Zihinsel hazırlık",
+    "option3": "C) Kişisel hazırlık",
+    "option4": "D) Fiziksel hazırlık",
+    "option5": "E)Eğitsel hazırlık",
+    "answer": "A) Psikolojik hazırlık"
+  },
+  {
+    "question": " 21.Aşağıdakilerden hangisi, üst araması yöntemlerinden biri değildir?",
+    "option1": "A) Yan yatırarak",
+    "option2": "B) Ayakta durdurarak",
+    "option3": "C) Duvar veya araca yaslayarak",
+    "option4": "D) Yüzüstü yatırarak",
+    "option5": "E)Diz çöktürmek suretiyle",
+    "answer": "A) Yan yatırarak"
+  },
+  {
+    "question": " 26. Aşağıdakilerden hangisi olay yerinin korunmasında yapılan hatalardan biri değildir?",
+    "option1": "A) Dar bir alanın koruma altına alınması",
+    "option2": "B) İlgisiz kişilerin olay yerine girmesi",
+    "option3": "C) Olay yerinde bir şey yenilip içilmesi",
+    "option4": "D) Delillere dokunulması",
+    "option5": "E)Olay yerinde bulunan her şeyin delil olabileceğinin değerlendirilmesi",
+    "answer": "E)Olay yerinde bulunan her şeyin delil olabileceğinin değerlendirilmesi"
+  },
+  {
+    "question": " 27. AVM içerisinde devriye görevi yapan ÖGG Aytekin, bir şahsın bir müşterinin cep telefonunu cebinden çaldığını görmesi üzerine, şüpheliyi yakalamış ve kolluğa haber vermiştir. ÖGG Aytekin aşağıdaki tutanaklardan hangisini hazırlaması gerekir?",
+    "option1": "A) Olay yeri tespit tutanağı",
+    "option2": "B) Teşhis tutanağı",
+    "option3": "C) Suçüstü tutanağı",
+    "option4": "D) Devir teslim tutanağı",
+    "option5": "E)Emanete alma tutanağı",
+    "answer": "C) Suçüstü tutanağı"
+  },
+  {
+    "question": " 28. Hava meydanında devriye görevi yürüten ÖGG Fatih ile Mert, devriye bölgesindeki önemli yerler ile denetlediği diğer yerleri zamana bağlı kalmaksızın yeniden kontrol etmeleri, aşağıdaki hangi devriye yöntemine örnektir?",
+    "option1": "A) Olağan devriye",
+    "option2": "B) Planlı devriye",
+    "option3": "C) Geri dönüşlü devriye",
+    "option4": "D) Dairesel devriye",
+    "option5": "E)Olağanüstü devriye",
+    "answer": "C) Geri dönüşlü devriye"
+  },
+  {
+    "question": " 29. Üniversitede görevli ÖGG Barış ile Kenan’dan kampüste yeni uygulamaya konulan çevre güvenlik sisteminin avantaj ve dezavantajları konusunda bir rapor istenmiştir. Özel güvenlik görevlilerinin düzenleyeceği rapor hangisidir?",
+    "option1": "A) Devir teslim raporu",
+    "option2": "B) Değerlendirme raporu",
+    "option3": "C) Bilirkişi raporu",
+    "option4": "D) Olay bildirim raporu",
+    "option5": "E)Ekspertiz raporu",
+    "answer": "B) Değerlendirme raporu"
+  },
+  {
+    "question": " 30. Aşağıdakilerden hangisi telsiz konuşma esaslarından biridir?",
+    "option1": "A) Telsiz dudaklardan 30-40 cm uzakta tutulur",
+    "option2": "B) Zaman kazanmak için hızlı ve bağırarak konuşulur",
+    "option3": "C) Kanalda konuşma olsa da konuşma mandalına basılarak muhabere sağlanır",
+    "option4": "D) Konuşma süresi 15-20 saniyeyi geçmemelidir",
+    "option5": "E)İsimle hitap edilir",
+    "answer": "D) Konuşma süresi 15-20 saniyeyi geçmemelidir"
+  },
+  {
+    "question": " 31.. Özel Güvenlik Görevlileri Hasan ve Kamil, bir AVM giriş kapısında görev yapmaktadırlar. Görevleri esnasında bir şahsın çantasından 5 adet yabancı menşeli yivli tüfek fişeği elde ederler. Şahıs mermileri birkaç ay önce askerden terhise gelirken hatıra amaçlı getirdiğini söyler. Bu durumda Hasan ve Kamil ne yapmalıdır?",
+    "option1": "A) Şahsı bırakmayıp, yakalama ve emanete alma tutanağı yaparlar, vakit geçirmeden kolluğa bilgi verip, şahısla fişekleri kolluğa teslim ederler",
+    "option2": "B) Fişekleri askeri birliğe teslim etmek üzere emanete alırlar, şahsı bırakırlar",
+    "option3": "C) Kolluğa iletmek üzere fişekleri emanete alarak şahsı bırakırlar",
+    "option4": "D) Şahsı içeri almazlar geri çevirirler",
+    "option5": "E)Şahsın terhis olduğu birliğiyle irtibat kurmaya çalışırlar",
+    "answer": "A) Şahsı bırakmayıp, yakalama ve emanete alma tutanağı yaparlar, vakit geçirmeden kolluğa bilgi verip, şahısla fişekleri kolluğa teslim ederler"
+  },
+  {
+    "question": " 32..Lastik fabrikasında iş kazası sonrası bir işçi hayatını kaybetmiştir. Olay yeriyle ilgili ÖGG İlker ile Tamer’in hangi davranışı doğrudur?",
+    "option1": "A) Basına bilgi vermişlerdir",
+    "option2": "B) Olay yerini emniyet şeridi ile çevirerek genel kolluğa haber vermişlerdir",
+    "option3": "C) Maktulü açık alana almışlardır",
+    "option4": "D) Valiliğe bilgi vermişlerdir",
+    "option5": "E)Olay ile ilgili sorumluların ifadesini almışlardır",
+    "answer": "B) Olay yerini emniyet şeridi ile çevirerek genel kolluğa haber vermişlerdir"
+  },
+  {
+    "question": " 33.. “Bir kişinin kaybettiği veya çaldırdığı eşyanın bulunmasında, buluntu bir eşyanın sahibi tarafından tanımlanmasında, eşyanın benzereşyalardan ayırt edilmesine yarayan özelliklerinin tarif edilmesinene denir?",
+    "option1": "A) Eşya teşhisi",
+    "option2": "B) Eşya tarifi",
+    "option3": "C) Çalıntı eşya",
+    "option4": "D) Buluntu eşya",
+    "option5": "E)Yasal eşya",
+    "answer": "B) Eşya tarifi"
+  },
+  {
+    "question": " 34.. Kontrol noktasında görevli özel güvenlik görevlileri Nedim ile Osman, ziyaretçinin üzerinde bulunan suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı emanete aldıklarında hangi görevi yerine getirmiş olurlar?",
+    "option1": "A) Adli",
+    "option2": "B) Önleyici",
+    "option3": "C) Yardım",
+    "option4": "D) Koruyucu",
+    "option5": "E)Yargısal",
+    "answer": "D) Koruyucu"
+  },
+  {
+    "question": " 35..İşyeri kontrol noktasında görevli ÖGG Ziya’nın aşağıdaki müdahalelerden hangisi yanlıştır?",
+    "option1": "A) Kapı tipi metal dedektörden geçen ziyaretçiden sinyal gelmesi üzerine şahsın üzerini elle arama yapmak",
+    "option2": "B) Ziyaretçileri kapı tipi metal dedektörden geçirmek",
+    "option3": "C) Kontrol noktasındaki kapı tipi metal dedektörden geçmek istemeyenleri içeri almamak",
+    "option4": "D) Kapı tipi metal dedektörden kişilerin tek tek geçmesini sağlamak",
+    "option5": "E)Kapı tipi metal dedektörün sağlıklı çalışıp çalışmadığını kontrol etmek",
+    "answer": "A) Kapı tipi metal dedektörden geçen ziyaretçiden sinyal gelmesi üzerine şahsın üzerini elle arama yapmak"
+  },
+  {
+    "question": " 36.. ÖGG Alper devriye görevini yaparken yapmış olduğu tutum ve davranışlardan hangisi doğru değildir?",
+    "option1": "A) Görev alanında meydana gelebilecek hırsızlık, yan kesicilik gibi olaylara duyarlı olmak",
+    "option2": "B) Görev alanındaki tesis ve kişilerin güvenliğini sağlamak",
+    "option3": "C) Görev alanındaki terk edilmiş veya bulunmuş eşyayı emanete almak",
+    "option4": "D) Görev alanında kaybolan veya yer soranlara yardımcı olmak",
+    "option5": "E)Görev alanındaki sokak çocuklarını yakalayıp, ilgili kuruluşlara götürüp teslim etmek",
+    "answer": "E)Görev alanındaki sokak çocuklarını yakalayıp, ilgili kuruluşlara götürüp teslim etmek"
+  },
+  {
+    "question": " 37.. Devriye görevlileri ÖGG Şahin ile Kemal’in tanzim edemeyeceği tutanak hangisidir?",
+    "option1": "A) İfade alma tutanağı",
+    "option2": "B) Olay tespit tutanağı",
+    "option3": "C) Yangın tutanağı",
+    "option4": "D) Yakalama tutanağı",
+    "option5": "E)Suçüstü tutanağı",
+    "answer": "A) İfade alma tutanağı"
+  },
+  {
+    "question": " 38.. Havaalanı kontrol noktası ÖGG Hasan, elektronik cihazlarla yaptığı kontrol esnasında, ruhsatsız bir ateşli silaha rastladığı zaman yaptığı hangi hareket doğrudur?",
+    "option1": "A) Silahın marka ve seri numarasını alıp şahsı serbest bırakır",
+    "option2": "B) Şahsın kimliği ile ilgili bilgileri alıp şahsı serbest bırakır",
+    "option3": "C) Ateşli silahı sökerek parçalarına ayırır ve şahsa iade eder",
+    "option4": "D) Şahsı bekletir ve silahı emanete alarak genel kolluğa haber verir",
+    "option5": "E)Ateşli silaha el koyarak şahsı serbest bırakır",
+    "answer": "D) Şahsı bekletir ve silahı emanete alarak genel kolluğa haber verir"
+  },
+  {
+    "question": " 39..Birbiri ardınca ve sürekli bir surette çalınan düdük sesi neye işarettir?",
+    "option1": "A) Araştırma işaretidir",
+    "option2": "B) Kontrol işaretidir",
+    "option3": "C) İmdat işaretidir",
+    "option4": "D) Yoklama işaretidir",
+    "option5": "E)Davet işaretidir",
+    "answer": "C) İmdat işaretidir"
+  },
+  {
+    "question": " 40.. Özel güvenlik şirket yöneticisi Kürşat Bey, ÖGG personeli arasından devriye görevlileri seçecektir. Başarılı bir devriye görevlisinde olması gereken özelliklerden hangisi doğru değildir?",
+    "option1": "A) Fiziksel görünüşü güven telkin edecek şekilde düzgün olmalıdır",
+    "option2": "B) Kuvvetli hafızaya sahip, şüpheli belirtiler konusunda dikkatli ve iyi bir izleyici olmalı",
+    "option3": "C) Uzlaşmacı karakterde, iyi iletişim kurabilen yapıya sahip, sinirli ve heyecanlı olmamalıdır",
+    "option4": "D) Görev sırasında uygunsuz davranışlarda bulunmamalıdır",
+    "option5": "E)Görev ciddiyetini muhafaza için devamlı asık suratlı ve asabi bir izlenim vermelidir",
+    "answer": "E)Görev ciddiyetini muhafaza için devamlı asık suratlı ve asabi bir izlenim vermelidir"
+  },
+  {
+    "question": " 41. Aşağıdakilerden hangisi bir alana izinsiz veya yasak eşyalarla girilmesini engellemek maksadıyla kullanılan bir teknoloji değildir?",
+    "option1": "A) X-Ray cihazı",
+    "option2": "B) El tipi metal dedektör",
+    "option3": "C) Yangın algılama ve söndürme sistemi",
+    "option4": "D) Kapı tipi metal dedektör",
+    "option5": "E)Kapalı devre kamera sistemi",
+    "answer": "C) Yangın algılama ve söndürme sistemi"
+  },
+  {
+    "question": " 42. X-Ray cihazlarında konveyör bandına bırakılan bagajların mesafe aralığı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "option1": "A) 70 cm",
+    "option2": "B) Ready konumunda",
+    "option3": "C) 50 cm",
+    "option4": "D) 1 mt",
+    "option5": "E)1.50 mt",
+    "answer": "C) 50 cm"
+  },
+  {
+    "question": " 43. Güvenlik kameralarında zoom yapılması ne anlama gelir?",
+    "option1": "A) Görüntünün yakınlaştırılması/büyütülmesi",
+    "option2": "B) Görüntünün netlik ayarının yapılması",
+    "option3": "C) Görüntünün açısının değiştirilmesi",
+    "option4": "D) Görüntünün renklendirilmesi",
+    "option5": "E)Görüntünün 90 derece döndürülmesi",
+    "answer": "A) Görüntünün yakınlaştırılması/büyütülmesi"
+  },
+  {
+    "question": " 44. Aşağıdakilerden hangisi güvenlik sistem ve cihazları arasında yer almaz?",
+    "option1": "A) Metal arama dedektörleri",
+    "option2": "B) İz dedektörleri",
+    "option3": "C) X-Ray",
+    "option4": "D) Yaya devriye",
+    "option5": "E)Alarm sistemleri",
+    "answer": "D) Yaya devriye"
+  },
+  {
+    "question": " 45. Aşağıdakilerden hangisi kapalı devre televizyon sistemleri (CCTV) elemanlarından değildir?",
+    "option1": "A) Monitör",
+    "option2": "B) Kamera",
+    "option3": "C) Switcher",
+    "option4": "D) Turnike",
+    "option5": "E)Video motion",
+    "answer": "D) Turnike"
+  },
+  {
+    "question": " 46. Aşağıdakilerden hangisi, kırık hakkında yanlış bir bilgidir?",
+    "option1": "A) Kırık bölgesinde hareket kısıtlılığı olur",
+    "option2": "B) Kırık bölgesinde ağrı olur",
+    "option3": "C) Kırık bölgesi sabit tutulmalıdır",
+    "option4": "D) Açık kırıklarda kanama ve yara enfeksiyonu çok büyük risktir",
+    "option5": "E)Açık kırıktaki kemik parçaları içeriye sokulmalıdır",
+    "answer": "E)Açık kırıktaki kemik parçaları içeriye sokulmalıdır"
+  },
+  {
+    "question": " 47. Aşağıdakilerden hangisi yanlıştır?",
+    "option1": "A) Kedi-köpek ısırmalarındaki hafif yaralanmalarda yara bölgesi 5 dakika sabun ve soğuk suyla yıkanır",
+    "option2": "B) Arı sokmalarında soğuk uygulama yapılır",
+    "option3": "C) Yılan sokmalarında yara bölgesi kesilerek kanaması sağlanır",
+    "option4": "D) Arı sokmalarında arının iğnesi görülüyorsa çıkarılır",
+    "option5": "E)Deniz canlıları sokmasında yara bölgesi hareket ettirilmez ve ovalanmaz",
+    "answer": "C) Yılan sokmalarında yara bölgesi kesilerek kanaması sağlanır"
+  },
+  {
+    "question": " 48.Temel Yaşam Desteği yapılırken akciğerlere hava gitmesi için aşağıdakilerden hangisi yapılır?",
+    "option1": "A) Kalbe bası uygulanır",
+    "option2": "B) Hasta yüzüstü yatırılır",
+    "option3": "C) Hasta oturtulur",
+    "option4": "D) Baş geri itilir, çene yukarı kaldırılarak kuvvetli nefes verilir",
+    "option5": "E)Karına kuvvetli baskı uygulanır",
+    "answer": "D) Baş geri itilir, çene yukarı kaldırılarak kuvvetli nefes verilir"
+  },
+  {
+    "question": " 49. Spor salonunda meydana gelen bir travmatik olaya yapacağınız ilk yardım uygulaması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "option1": "A) Burkulmanın olduğu bölge kalp seviyesinden yukarıda tutulur",
+    "option2": "B) Burkulma bölgesinde kırık olup olmadığını anlamak için o bölge her yöne hareket ettirilir",
+    "option3": "C) Çıkan eklem, ilk yardımcı tarafından sabit tutulur",
+    "option4": "D) Dokuların şişmemesi için burkulmanın olduğu bölgeye elastik bandaj uygulanır",
+    "option5": "E)Burkulmanın olduğu bölgeye soğuk uygulama yapılır",
+    "answer": "B) Burkulma bölgesinde kırık olup olmadığını anlamak için o bölge her yöne hareket ettirilir"
+  },
+  {
+    "question": " 50. Yaralanmalarda ilk yardım ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "option1": "A) Yaradaki kanama durdurulmaz",
+    "option2": "B) Yaraya güneş gelmesi için üzeri açık bırakılır",
+    "option3": "C) Yaranın temizliğinin sağlanması için içerisinde yabancı cisim olup olmadığı kurcalanır, varsa çıkarılır",
+    "option4": "D) Yaradan dışarı çıkan kemik ve doku parçaları içeri sokulur",
+    "option5": "E)Yara bölgesinin üzerine hiçbir ilaç ve benzeri madde sürülmez",
+    "answer": "E)Yara bölgesinin üzerine hiçbir ilaç ve benzeri madde sürülmez"
+  },
+  {
+    "question": " 51. Aşağıdaki organlardan hangisi karın boşluğunda değildir?",
+    "option1": "A) Mide",
+    "option2": "B) Akciğer",
+    "option3": "C) Karaciğer",
+    "option4": "D) Dalak",
+    "option5": "E)İnce Bağırsak",
+    "answer": "B) Akciğer"
+  },
+  {
+    "question": " 52. Görev bölgenizde bir kişinin herhangi bir nedenle bayılması halinde ilk yardım uygulaması olarak ne yapılmalıdır?",
+    "option1": "A) Hemen ayağa kaldırılır",
+    "option2": "B) Su içirilir",
+    "option3": "C) Sırt üstü yatırılır, ayakları 30cm yukarı kaldırılır, tıbbi yardım istenir",
+    "option4": "D) Oturtulur",
+    "option5": "E)Kuvvetli bir şekilde sallayarak uyanması sağlanır",
+    "answer": "C) Sırt üstü yatırılır, ayakları 30cm yukarı kaldırılır, tıbbi yardım istenir"
+  },
+  {
+    "question": " 53. Otobanda seyir halindeyken karşı şeritte bir aracın yolun dışına savrulduğu görüldüğünde ilk yardımın temeluygulamaları açısından aşağıdakilerden hangisinin yapılması yanlış olur?",
+    "option1": "A) Öncelikle kendi aracınızı tehlike oluşturmayacak bir alana çekmek ve aracınızın görünür olmasını sağlamak",
+    "option2": "B) Mümkün olan en hızlı şekilde 112’yi arayarak/aratarak yardım istemek",
+    "option3": "C) Olay yerinin güvenliğini sağlamak için kaza yapan aracı sabitlemek",
+    "option4": "D) Olay yerindeki yaralı sayısını belirlemek",
+    "option5": "E)İkinci bir risk olmasa bile yaralıyı hızlıca aracın dışına çıkarmak",
+    "answer": "E)İkinci bir risk olmasa bile yaralıyı hızlıca aracın dışına çıkarmak"
+  },
+  {
+    "question": " 54. Şok anında ilk yardım uygulamalarında hangisinin yapılması doğru olmaz?",
+    "option1": "A) Hasta/yaralı sırt üstü düz yatırılır",
+    "option2": "B) Yiyecek ve içecek bir şeyler verilebilir",
+    "option3": "C) Hasta yaralının bacakları 30 cm kadar yukarı kaldırılarak bacaklarının altına destek konulur",
+    "option4": "D) Isı kaybına karşı hastanın üstü örtülür",
+    "option5": "E)Yardım gelene kadar hasta/yaralının yanında kalınır",
+    "answer": "B) Yiyecek ve içecek bir şeyler verilebilir"
+  },
+  {
+    "question": " 55. Olay yerinde hastanın durumunun daha da kötüleşmesini engellemek amacıyla ilaçsız olarak yapılan müdahaleye ne ad verilir?",
+    "option1": "A) İlk yardım",
+    "option2": "B) Acil tedavi",
+    "option3": "C) Tıbbi yardım",
+    "option4": "D) İlk tedavi",
+    "option5": "E)Cerrahi girişim",
+    "answer": "A) İlk yardım"
+  },
+  {
+    "question": " 56. Yanıcı madde, ısı ve oksijenin bir araya gelmesiyle meydana gelen kimyasal reaksiyonun kontrol dışına çıkmasına ne ad verilir?",
+    "option1": "A) Yanma",
+    "option2": "B) Yangın",
+    "option3": "C) Ateş",
+    "option4": "D) Yanıcı Madde",
+    "option5": "E)Alev",
+    "answer": "B) Yangın"
+  },
+  {
+    "question": " 57. Aşağıdakilerden hangisi itfaiye teşkilatının görevlerinden değildir?",
+    "option1": "A) Yangınlara müdahale etmek ve söndürmek",
+    "option2": "B) Su baskınlarına müdahale etmek",
+    "option3": "C) Doğal afetler ve olağanüstü durumlarda kurtarma çalışmalarına katılmak",
+    "option4": "D) Yaralıya serum takmak, vatandaşları olay yerinden uzak tutmak",
+    "option5": "E)Halkı, kurum ve kuruluşları itfaiye hizmetleri ile ilgili olarak bilgilendirmek, alınacak önlemler konusunda eğitmek ve bu konuda tatbikatlar yapmak",
+    "answer": "D) Yaralıya serum takmak, vatandaşları olay yerinden uzak tutmak"
+  },
+  {
+    "question": " 58. Yanma unsurlarından olan ısının ortama yayılması aşağıdakilerden hangisi ya da hangileri ile olur? I. Kondüksiyon (iletim) II. Konveksiyon (taşınım) III. Radyasyon (ışınım)",
+    "option1": "A) Yalnız I ",
+    "option2": "B) Yalnız III",
+    "option3": "C) II, III",
+    "option4": "D) I, II, III",
+    "option5": "E)I, II",
+    "answer": "D) I, II, III"
+  },
+  {
+    "question": " 59.Bitkisel ve hayvansal pişirme yağlarının yangınları, TSE yangın sınıfları içerisinde hangi harf ile sembolize edilmiştir?",
+    "option1": "A) E",
+    "option2": "B) A",
+    "option3": "C) D",
+    "option4": "D) B",
+    "option5": "E) F",
+    "answer": "E) F"
+  },
+  {
+    "question": " 60. Yer kabuğu içindeki kırılmalar nedeniyle ani olarak ortaya çıkan titreşimlerin dalgalar halinde yayılarak geçtikleri ortamları ve yer yüzeyini sarsma olayına ne denir?",
+    "option1": "A) Tsunami",
+    "option2": "B) Sel",
+    "option3": "C) Deprem",
+    "option4": "D) Erozyon",
+    "option5": "E)Toprak kayması",
+    "answer": "C) Deprem"
+  },
+  {
+    "question": " 61. Doğalgazın kullanıldığı kapalı ortamlarda gaz kaçağı algılama dedektörü kurulması gerektiğinde,dedektörün kurulacağı bölge seçeneklerden hangisinde doğru verilmiştir?",
+    "option1": "A) Tavan",
+    "option2": "B) Tavana yakın herhangi bir bölgeye",
+    "option3": "C) Taban",
+    "option4": "D) Tabana yakın duvara",
+    "option5": "E)Duvara uygun olan bir yere",
+    "answer": "A) Tavan"
+  },
+  {
+    "question": " 62. Doğalgaz kaçaklarında yapılması gerekenlerden hangileri doğrudur?  I. Elektrik düğmeleri kapatılmalıdır II. Gaz vanaları kapatılmalıdır III.Prizlere takılı olan fişlerçekilmemelidir IV.Kapı ve pencereler açılmalıdır",
+    "option1": "A) II-III",
+    "option2": "B) I- II-III",
+    "option3": "C) II-III-IV",
+    "option4": "D) I-IV",
+    "option5": "E)I-II-IV",
+    "answer": "C) II-III-IV"
+  },
+  {
+    "question": " 63. Aşağıdakilerden hangisi bir maddenin uyuşturucu ve uyarıcı madde olarak nitelendirilebilmesi için kullanılamaz?",
+    "option1": "A) Sağlık ve sosyal bakımdan zarar oluşturması",
+    "option2": "B) Fiziki bağımlılık oluşturması",
+    "option3": "C) Merkezi sinir sistemini etkilemesi",
+    "option4": "D) Psikolojik bağımlılık oluşturması",
+    "option5": "E)Pahalı olması",
+    "answer": "E)Pahalı olması"
+  },
+  {
+    "question": " 64. Kişinin kullandığı maddeyi bırakmak istemesi, bu amaçla çeşitli çabalar içine girmesine rağmen bırakamaması, bu esnada yoksunluk belirtilerinin ortaya çıkması, zararlarını bilmesine rağmen madde kullanımına devam etmesi ve kullandığı maddenin dozunu devamlı arttırması durumuna uygun olan en doğru ifade aşağıdakilerden hangisidir?",
+    "option1": "A) Madde Bağımlılığı",
+    "option2": "B) Fiziksel Bağımlılık",
+    "option3": "C) Psikolojik Bağımlılık",
+    "option4": "D) Tolerans",
+    "option5": "E)Madde Yoksunluğu",
+    "answer": "A) Madde Bağımlılığı"
+  },
+  {
+    "question": " 65. Aşağıdakilerden hangisi ya da hangileri söndürücü maddeler arasında yer alır? I. Su II. Kum III.KKT (kuru kimyevi toz) IV.Köpük",
+    "option1": "A) Yalnız II",
+    "option2": "B) I, II, III, IV",
+    "option3": "C) Yalnız I",
+    "option4": "D) I,II",
+    "option5": "E)I, III",
+    "answer": "B) I, II, III, IV"
+  },
+  {
+    "question": " 66. Aşağıdakilerden hangisi problem çözmede izlenen aşamalardan biri değildir?",
+    "option1": "A) Alternatifler içinde en doğru ve en etkin seçimi yapmak",
+    "option2": "B) Problemin nedenlerini anlamaya çalışmak ona yönelik çözüm aramak",
+    "option3": "C) Yeni çözüm önerileri ve yolları üretmek",
+    "option4": "D) Kendi çözüm yöntemini doğru kabul etmek",
+    "option5": "E)Kararı hızlı, etkin ve doğru almak",
+    "answer": "D) Kendi çözüm yöntemini doğru kabul etmek"
+  },
+  {
+    "question": " 67. Aşağıdakilerden hangisi Empatinin faydalarından değildir?",
+    "option1": "A) Empati ilişkilerde doyumu sağlar",
+    "option2": "B) Empati bireyin kendisini yalnız hissetmesini önler",
+    "option3": "C) Empati farklı bakış açısı geliştirmez",
+    "option4": "D) Empati bireyin kendisini daha rahat ifade etmesini sağlar",
+    "option5": "E)Empati, iletişimde yaşanan problemleri giderir",
+    "answer": "C) Empati farklı bakış açısı geliştirmez"
+  },
+  {
+    "question": " 68. Duygu, düşünce ve bilgilerin akla gelebilecek herhangi bir yolla başkalarına aktarılması süreci neyin tanımıdır?",
+    "option1": "A) Toplumsal diyalog",
+    "option2": "B) Halkla ilişkiler",
+    "option3": "C) Beden dili",
+    "option4": "D) Empati",
+    "option5": "E)İletişim",
+    "answer": "E)İletişim"
+  },
+  {
+    "question": " 69. Aşağıdakilerden hangisi motivasyonu etkileyen faktörlerden değildir?",
+    "option1": "A) İş ve çalışma düzeni",
+    "option2": "B) Güven duymama",
+    "option3": "C) Kararlara katılım",
+    "option4": "D) Ücret",
+    "option5": "E)Yöneticinin tavır ve davranışları",
+    "answer": "B) Güven duymama"
+  },
+  {
+    "question": " 70. Aşağıdakilerden hangisi etkin bir dinleyicinin özelliklerinden değildir?",
+    "option1": "A) Belli aralıklarla soru sormalı",
+    "option2": "B) Karşınızdakinin konuşmalarını tekrarlamak",
+    "option3": "C) Anlıyorum, evet gibi geri bildirimlerde bulunmak",
+    "option4": "D) Uygun aralıklarla başını sallar",
+    "option5": "E)Yüzüne bakarak dinlemek",
+    "answer": "B) Karşınızdakinin konuşmalarını tekrarlamak"
+  },
+  {
+    "question": " 71. Aşağıdakilerden hangisi beden dilinde dikkate alınmaz?",
+    "option1": "A) Bakışlar",
+    "option2": "B) Bedenin duruşu",
+    "option3": "C) Başın hareketleri",
+    "option4": "D) Jestler",
+    "option5": "E)Düşünceler",
+    "answer": "E)Düşünceler"
+  },
+  {
+    "question": " 72. 30-35 cm’lik bir alanı kapsar. Duygusal bakımdan çok yakın hissedilen insanların bu bölgeye girmesine izin verilir. Bu o kişiye güvenildiği, yakın olarak görüldüğünü gösterir. Yukarıda tanımlanan alan aşağıdakilerden hangisidir?",
+    "option1": "A) Kişisel mesafe",
+    "option2": "B) Mahrem mesafe",
+    "option3": "C) Sosyal alan",
+    "option4": "D) Ortak alan",
+    "option5": "E)Kamusal alan",
+    "answer": "B) Mahrem mesafe"
+  },
+  {
+    "question": " 73. Aşağıdakilerden hangisi sözsüz iletişimin özelliklerinden biri değildir?",
+    "option1": "A) Kültüre göre biçimlenme",
+    "option2": "B) Sesli iletişimi etkin kılma",
+    "option3": "C) Kişiler arasındaki iletişimi sağlama",
+    "option4": "D) Güvenilir iletişim oluşturma",
+    "option5": "E)İletişim yokluğunu imkansızlaştırma",
+    "answer": "B) Sesli iletişimi etkin kılma"
+  },
+  {
+    "question": " 74.…………………; ortak bir amacı gerçekleştirmek için bir araya gelmiş insanların faaliyetlerinin koordinasyonudur. Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "option1": "A) İletişim",
+    "option2": "B) Empati",
+    "option3": "C) Örgüt",
+    "option4": "D) Kalabalık",
+    "option5": "E)Eğitim",
+    "answer": "C) Örgüt"
+  },
+  {
+    "question": " 75. Aşağıdakilerden hangisi iletişim kurma nedenlerinden biri değildir?",
+    "option1": "A) Etkilemek ve yönlendirmek için",
+    "option2": "B) Paylaşmak için",
+    "option3": "C) Haberleşmek için",
+    "option4": "D) Var olmak için",
+    "option5": "E)Karşımızdaki kişinin bilgisini ölçmek için",
+    "answer": "E)Karşımızdaki kişinin bilgisini ölçmek için"
+  },
+  {
+    "question": " 76. Kişinin kendini herkesten ayrı tutarak her konuda öne çıkmak istemesi, diğerlerinden kendisinin daha önemli olduğunu vurgulayıp, ilgiyi alakayı sürekli üstünde tutmaya çalışması, iletişimin önündeki engellerden hangisine girer?",
+    "option1": "A) Ben merkezcilik",
+    "option2": "B) Alınganlık",
+    "option3": "C) Kararsızlık",
+    "option4": "D) Duyarsızlık",
+    "option5": "E)Ön kabuller",
+    "answer": "A) Ben merkezcilik"
+  },
+  {
+    "question": " 77. Aşağıdakilerden hangisi iletişimin temel özelliklerinden biri değildir?",
+    "option1": "A) İletişim bilinçli ve bilinçsiz olarak gerçekleşebilir",
+    "option2": "B) İletişim süreklidir",
+    "option3": "C) Sözcüklerle ve beden diliyle gerçekleşir",
+    "option4": "D) İletişim meydana geldiği ortamdan etkilenmez",
+    "option5": "E)İletişim kaynak ve alıcının aktif olduğu bir süreçtir",
+    "answer": "D) İletişim meydana geldiği ortamdan etkilenmez"
+  },
+  {
+    "question": " 78.Bir toplumsal olayda göz yaşartıcı gaza maruz kalmış bir meslektaşına ÖGG Mehmet’in ilk yardım amaçlı olarak yaptığı aşağıdaki hangi tavsiyesi yanlıştır?",
+    "option1": "A) Gazlı ortamı derhal terk edip, temiz havaya çıkalım",
+    "option2": "B) Gözlerini rüzgâra karşı açık tut, varsa kontak lenslerini çıkar",
+    "option3": "C) Bol sıcak su ile maddenin bulaştığı yerleri ovuşturarak yıka",
+    "option4": "D) Burnunu temizle ve normal nefes almayagayret et",
+    "option5": "E)Göz yaşartıcı maddelerin bulaştığı giysilerini çıkart ve havalandır",
+    "answer": "C) Bol sıcak su ile maddenin bulaştığı yerleri ovuşturarak yıka"
+  },
+  {
+    "question": " 79. ÖGG Ahmet AVM’de görevlidir. Görev yerinde mukavemetle karşılaşmış ve kendisine saldıran silahsız kişiye karşı zimmetli copunu kullanmak zorunda kalmıştır. ÖGG Ahmet’in, copunu kullanırken, saldırganın özellikle hangi bölgesine vurmamaya özen göstermesi gerekir?",
+    "option1": "A) Göğüs",
+    "option2": "B) Kalça kası",
+    "option3": "C) Baldır kası",
+    "option4": "D) Bel alt kısmı",
+    "option5": "E)Ön kol bölgeleri",
+    "answer": "A) Göğüs"
+  },
+  {
+    "question": " 80. Kanuna uygun herhangi bir gösteri yürüyüşünde görev yapan güvenlik görevlileri aşağıdaki davranışlardan hangisini yapmamalıdır?",
+    "option1": "A) Gösteri yürüyüşü sırasında karşı tarafların muhtemel saldırılarına karşı yürüyüşe katılanların güvenliklerini sağlamalıdır",
+    "option2": "B) Uyulması gereken kuralları ilgililere iletmelidir",
+    "option3": "C) Göstericiler ile gerçekleşen diyaloglarda emredici bir üslup yerine uyarıcı veya hatırlatıcı bir tavır sergilemek",
+    "option4": "D) Yürüyüş esnasında illegal slogan atanları hemen gözaltına alarak alandan uzaklaştırmalıdır",
+    "option5": "E)Farklı noktalarda görevli güvenlik görevlileri sürekli iletişim halinde olmalı ve koordineli hareket etmelidir",
+    "answer": "D) Yürüyüş esnasında illegal slogan atanları hemen gözaltına alarak alandan uzaklaştırmalıdır"
+  },
+  {
+    "question": " 81. Aşağıdakilerden hangisi kalabalıklarda panik oluşmasına neden olan durumlardan birisi olamaz?",
+    "option1": "A) Bir tehlikenin hissedilmesi",
+    "option2": "B) Kaçma yollarının sınırlı veya kapalı olması",
+    "option3": "C) Tepe lambası yanan bir polis aracının yoldan geçmesi",
+    "option4": "D) Güvenilir iletişim eksikliği",
+    "option5": "E)Göz yaşartıcı gaz kullanılması",
+    "answer": "C) Tepe lambası yanan bir polis aracının yoldan geçmesi"
+  },
+  {
+    "question": " 82. Üniversitede küçük bir saldırgan grup mevcuttur ve henüz genel kolluk çağırılmamıştır. Genel kolluk gelene kadar bu grubun etrafını çevirerek kontrol altına almak durumunda kalan özel güvenlik görevlileri hangi toplu düzeni uygulamalıdırlar?",
+    "option1": "A) Saldırı düzeni",
+    "option2": "B) Çatı düzeni",
+    "option3": "C) Hat düzeni",
+    "option4": "D) Çember düzeni",
+    "option5": "E)Kama düzeni",
+    "answer": "D) Çember düzeni"
+  },
+  {
+    "question": " 83. Spor müsabakalarında veya toplumsal olaylarda tehlike arz edecek bir kalabalık meydana gelmeye başladı ise güvenlik görevlileri aşağıdakilerden hangisini yapmamalıdır?",
+    "option1": "A) Kalabalığı küçük birimlere bölerek bölgeden uzaklaştırmak",
+    "option2": "B) Otoriteyi hissettirmek için zor kullanma yetkisini kapsamında hemen silah kullanma",
+    "option3": "C) Eğer mümkünse kuvvete başvurmadan kalabalık önderini bölgeden uzaklaştırmak",
+    "option4": "D) Kalabalığı kontrol altında tutarak yayılmasını ve güçlenmesini önlemek",
+    "option5": "E)Ses yükseltici araçlarla dağılmaları, dağılmazlarsa zor kullanılarak dağıtılacakları ikazını yapmak",
+    "answer": "B) Otoriteyi hissettirmek için zor kullanma yetkisini kapsamında hemen silah kullanma"
+  },
+  {
+    "question": " 84. ÖGG Osman, görev yaptığı alışveriş merkezi içerisinde, alışveriş için gelen insanların oluşturduğu kalabalığı gözlemlemektedir. ÖGG Osman tarafından gözlemlenen bu kalabalık aşağıdaki hangi tür kalabalıklardandır?",
+    "option1": "A) Organize olmayan aktif kalabalık",
+    "option2": "B) Organize olmayan pasif kalabalık",
+    "option3": "C) Organize pasif kalabalık",
+    "option4": "D) Organize aktif kalabalık",
+    "option5": "E)İlgiye dayalı kalabalık",
+    "answer": "B) Organize olmayan pasif kalabalık"
+  },
+  {
+    "question": " 85. Aşağıdakilerden hangisi bir topluluğa karşı yapılacak müdahalenin genel amaçlarından birisi değildir?",
+    "option1": "A) Yakalanan kişileri cezalandırmak",
+    "option2": "B) Topluluğu dağıtmak",
+    "option3": "C) Suçluları yakalamak",
+    "option4": "D) Dağılan topluluğun tekrar toplanmasını önlemek",
+    "option5": "E)Yakalanan kişileri savcılığa sevk etmek",
+    "answer": "A) Yakalanan kişileri cezalandırmak"
+  },
+  {
+    "question": " 86.Terör ve şiddet hareketleri yaratarak, devletin siyasi bütünlüğünü bozma veya başkalarına zarar verme amacında olan grup aşağıdakilerden hangisiyle ifade edilir?",
+    "option1": "A) Anlamlı gruplar",
+    "option2": "B) Amaçlı gruplar",
+    "option3": "C) Saldırgan gruplar",
+    "option4": "D) Paniğe kapılmış gruplar",
+    "option5": "E)Sakin gruplar",
+    "answer": "C) Saldırgan gruplar"
+  },
+  {
+    "question": " 87. Grup dinamiği konusunda aşağıdakilerden hangisi yanlıştır?",
+    "option1": "A) Bir insanın grup içerisindeki davranışı ile grup dışındaki davranışı birbirinden çok farklı olabilir",
+    "option2": "B) Bireyler grup içerisinde kendilerini daha güvende hissedebilirler",
+    "option3": "C) Grup üyeleri ortak bir amacı gerçekleştirmek için sözbirliği etmişse, bireyin grup kurallarına uyması azalır",
+    "option4": "D) Grupların gücü, üyelerin tek tek güçlerinin toplamından daha büyüktür",
+    "option5": "E)Grup içinde yaşanan olaylar ve özellikle de çevrenin etkisiyle gerçekleşen değişimler hem grubun yapısında hem de üyeleri arasında çeşitli etkilere, bu etkiler de tepkilere neden olur",
+    "answer": "C) Grup üyeleri ortak bir amacı gerçekleştirmek için sözbirliği etmişse, bireyin grup kurallarına uyması azalır"
+  },
+  {
+    "question": " 88.Bilinen en eski terörist taktiği olan, toplumda kargaşa çıkarmak ve devletin yabancı devletler karşısında güvenliğini tehlikeye düşürmek maksadıyla devlet büyüklerine, siyasi ve askeri liderlere ve toplumda sevilen kişilere yöneltilen silahlı saldırılar aşağıdakilerden hangisi ile ifade edilebilir?",
+    "option1": "A) Sabotaj",
+    "option2": "B) Tehdit",
+    "option3": "C) Suistimal",
+    "option4": "D) Tehlike",
+    "option5": "E)Suikast",
+    "answer": "E)Suikast"
+  },
+  {
+    "question": " 89. Yapılacak öncü istihbarat çalışmasında aşağıda verilenlerden hangisini yapmaya gerek yoktur?",
+    "option1": "A) İlde bulunan hastaneler ve ambulans hizmetlerinin durumu",
+    "option2": "B) Programda kullanılacak güzergâhlar",
+    "option3": "C) Ziyaret programı",
+    "option4": "D) Güzergahta bulunan boğma noktaları",
+    "option5": "E)Programa katılacak tüm kişilerin kan grubu bilgileri",
+    "answer": "E)Programa katılacak tüm kişilerin kan grubu bilgileri"
+  },
+  {
+    "question": " 90. Koruma personeli tarafından korunan kişiye karşı silahlı bir saldırı girişiminde, yapılması gereken en mantıklı hareket aşağıdakilerden hangisidir?",
+    "option1": "A) Korunan kişiyi çatışma bölgesinden uzaklaştırarak güvenli bir alana götürmek",
+    "option2": "B) Saldırganı imha edene kadar çatışma bölgesinde kalmak",
+    "option3": "C) Çatışmayı sürdürmek ve yerel kuvvetlerden yardım istemek",
+    "option4": "D) Havaya ateş etmek",
+    "option5": "E)Olay yerini boşaltmak",
+    "answer": "A) Korunan kişiyi çatışma bölgesinden uzaklaştırarak güvenli bir alana götürmek"
+  },
+  {
+    "question": " 91. Yaya olarak VIP (önemli kişi) koruma görevi yapılması ile ilgili aşağıdakilerden hangi hareket şekli yanlıştır?",
+    "option1": "A) Merdivenlerde, VIP’den (önemli kişi) önce bir koruma görevlisi çıkarak üst kat emniyetini almalıdır",
+    "option2": "B) VIP (Önemli kişi), merdivenlerde bina boşluğuna yakın olmamalıdır",
+    "option3": "C) Asansörden inişlerde, önce VIP (Önemli kişi) inmelidir",
+    "option4": "D) Döner kapı kesinlikle kullanılmamalıdır",
+    "option5": "E)Döner kapı kullanılmak zorunda ise önce bir koruma görevlisi içeri girmelidir",
+    "answer": "C) Asansörden inişlerde, önce VIP (Önemli kişi) inmelidir"
+  },
+  {
+    "question": " 92. “Korunan kişinin ziyaret edeceği yerlerin güzergahla birlikte ziyaretten uygun bir süre önce güvenlik açısından yapılan kontrol ve planlamaların tümüne ……...denir.” İfadesi aşağıdakilerden hangisini tanımlar?",
+    "option1": "A) Keşif",
+    "option2": "B) Araştırma",
+    "option3": "C) İnceleme",
+    "option4": "D) Tarama",
+    "option5": "E)Öncü İstihbarat",
+    "answer": "E)Öncü İstihbarat"
+  },
+  {
+    "question": " 93. Aşağıdakilerden hangisi suikastların nedenleri arasında sayılamaz?",
+    "option1": "A) Ekonomik",
+    "option2": "B) Kültür ve Turizm",
+    "option3": "C) Politik",
+    "option4": "D) Kişisel, psikolojik",
+    "option5": "E)İdeolojik",
+    "answer": "B) Kültür ve Turizm"
+  },
+  {
+    "question": " 94. Hangisi önemli kişiyi küçük düşürmeye yönelik saldırı değildir?",
+    "option1": "A) Toplantı ve konuşmaları sabote etmek",
+    "option2": "B)  İntihar saldırısı",
+    "option3": "C) Küfretmek",
+    "option4": "D) Yumurta, domates ve benzeri şeyler atmak",
+    "option5": "E)Tükürmek",
+    "answer": "B)  İntihar saldırısı"
+  },
+  {
+    "question": " 95. Suikast eylemlerinin safhalarısıralandığında; bu sıralamada aşağıdakilerden hangisi yer almaz?",
+    "option1": "A) Hedef teslimi",
+    "option2": "B) Hedef tespiti",
+    "option3": "C) Hedef istihbaratı ve keşif",
+    "option4": "D) Eylemin planı",
+    "option5": "E)Eylemin icrası",
+    "answer": "A) Hedef teslimi"
+  },
+  {
+    "question": " 96. Aşağıdakilerden hangisi dost olmayan kalabalıkların özelliklerinden değildir?",
+    "option1": "A) Protesto amaçlı domates veya yumurta atabilirler",
+    "option2": "B) Konuşmayı sloganlarla sık sık protesto edebilirler",
+    "option3": "C) Bozuk para, pet şişe, çakmak, ayakkabı vs. atabilirler",
+    "option4": "D) Sloganlarla kalabalığı tahrik edebilirler",
+    "option5": "E)Korunan kişinin lehine tezahürat yapabilirler",
+    "answer": "E)Korunan kişinin lehine tezahürat yapabilirler"
+  },
+  {
+    "question": " 97. Kamu düzeni ve güvenliğini sağlamakla görevli olan genel kolluğun görev ve yetkileri ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "option1": "A) Genel kolluğun suç sonrası adli görevi bulunmamaktadır",
+    "option2": "B) Genel kolluk, özel güvenlik görevlilerinin görev alanından da sorumludur",
+    "option3": "C) Kamu düzenini sağlamaktan genel kolluk sorumludur",
+    "option4": "D) Genel kolluk, ülke genelinde görevli ve yetkilidir",
+    "option5": "E)Genel kolluk, iç güvenliği sağlamakla yükümlüdür",
+    "answer": "A) Genel kolluğun suç sonrası adli görevi bulunmamaktadır"
+  },
+  {
+    "question": " 98. Genel kolluk ile özel güvenlik arasında etkili iletişim, etkin işbirliği, koordinasyonu ve birlikte çalışmayı hedefleyen proje aşağıdakilerden hangisidir?",
+    "option1": "A) ASİP",
+    "option2": "B) PATBİS",
+    "option3": "C) ÖGNET",
+    "option4": "D) KAAN",
+    "option5": "E)GÜVEN",
+    "answer": "D) KAAN"
+  },
+  {
+    "question": " 99. ÖGG İsmail'in görev yaptığı AVM içerisinde yaralama olayı meydana gelmiş, fail olayda kullandığı tornavidayı olay yerinde bırakarak kaçmıştır. ÖGG İsmail'in aşağıdakilerden hangisini yapması yanlıştır?",
+    "option1": "A) Gecikmeksizin olaya el koymak",
+    "option2": "B) En seri vasıtayla genel kolluğa haber vermek",
+    "option3": "C) Olayla ilgili soruşturma yapmak",
+    "option4": "D) Olay yeri ve delillerini korumak",
+    "option5": "E)Suç aletini muhafaza altına almak",
+    "answer": "C) Olayla ilgili soruşturma yapmak"
+  },
+  {
+    "question": " 100. Kamu kurum ve kuruluşlarında çalışan özel güvenlik görevlilerinin tek tip üniforma giymelerinin amacı en doğru şekilde nasıl izah edilebilir?",
+    "option1": "A) Üniforma maliyetlerini azaltmak",
+    "option2": "B) Özel güvenlik görevlilerinin toplum nezdindeki saygınlıklarını, güvenilirliklerini, aidiyet duygularını, kuruma bağlılıklarını ve görünürlüklerini arttırmak",
+    "option3": "C) Özel güvenlik üniformalarının genel kolluk üniformalarına benzer olmasını sağlamak",
+    "option4": "D) Renk kargaşasına son vermek",
+    "option5": "E)Özel güvenlik şirket personeli ile kamuda çalışan özel güvenlik görevlilerini ayırt edilmesini",
+    "answer": "B) Özel güvenlik görevlilerinin toplum nezdindeki saygınlıklarını, güvenilirliklerini, aidiyet duygularını, kuruma bağlılıklarını ve görünürlüklerini arttırmak"
+  },
+  {
+    "question": " 101 Poligonda atış yapan ÖGG Melih için aşağıdakilerden hangisi nişan hattını oluşturan öğelerden biri değildir?",
+    "option1": "A) Göz",
+    "option2": "B) Namlu ucu",
+    "option3": "C) Gez",
+    "option4": "D) Hedef",
+    "option5": "E)Arpacık",
+    "answer": "B) Namlu ucu"
+  },
+  {
+    "question": " 102 ÖGG Tamer'in kullanmış olduğu görev silahının gerdel yayı kırılmış veya ters takılmışsa bu durum, silahın hangi bölümünde arızaya sebep olur?",
+    "option1": "A) Hazne (şarjör) arızası",
+    "option2": "B) Tetik takımı arızası",
+    "option3": "C) Nişan tertibatı arızası",
+    "option4": "D) Fişek arızası",
+    "option5": "E)İğne arızası",
+    "answer": "A) Hazne (şarjör) arızası"
+  },
+  {
+    "question": " 103 Gerek otomatik silahlarda gerekse toplu silahlarda, ateşleme neticesinde fişek yatağındaki boş kovanı veya fişek yatağındaki fişeği çıkarmayı sağlayan tertibata ne denir?",
+    "option1": "A) Fişek verme tertibatı",
+    "option2": "B) Kovan atma tertibatı",
+    "option3": "C) Ateşleme tertibatı",
+    "option4": "D) Nişan tertibatı",
+    "option5": "E)Emniyet tertibatı",
+    "answer": "B) Kovan atma tertibatı"
+  },
+  {
+    "question": " 104 Aşağıdakilerden hangisi silahla yapılan kazaların kişisel sebeplerinden değildir?",
+    "option1": "A) Atıcının kendine aşırı güveni",
+    "option2": "B) Atıcının silahını tanımaması",
+    "option3": "C) Atıcının aşırı unutkanlığı",
+    "option4": "D) Atıcının silahla sık sık ve gereksiz oynaması",
+    "option5": "E)Fişeğin hatalı olması",
+    "answer": "E)Fişeğin hatalı olması"
+  },
+  {
+    "question": " 105 Aşağıdakilerden hangisi tabancaların emniyet tertibatlarından değildir?",
+    "option1": "A) Horoz emniyeti",
+    "option2": "B) İkaz pimi emniyeti",
+    "option3": "C) Fişek yatağı emniyeti",
+    "option4": "D) Kabza emniyeti",
+    "option5": "E)Şarjör emniyeti",
+    "answer": "B) İkaz pimi emniyeti"
+  },
+  {
+    "question": " 106 Aşağıdakilerden hangisi fişeğin unsurlarından değildir?",
+    "option1": "A) Kapsül",
+    "option2": "B) Çekirdek",
+    "option3": "C) Kovan",
+    "option4": "D) Barut",
+    "option5": "E)İğne",
+    "answer": "E)İğne"
+  },
+  {
+    "question": " 107 ÖGG Mahmut’a verilen görev silahının rampası kırık ise atış esnasında nasıl bir durumla karşılaşır?",
+    "option1": "A) Şarjöre fişek doldurulamaz",
+    "option2": "B) Emniyet mandalı hareket etmez",
+    "option3": "C) Şarjörden fişek yatağına fişek sürülemez",
+    "option4": "D) Boş kovan dışarı atılamaz",
+    "option5": "E)Fişeğin ilk hızı düşer",
+    "answer": "C) Şarjörden fişek yatağına fişek sürülemez"
+  },
+  {
+    "question": " 108 Aşağıdakilerden hangisi silahla ilgili emniyet kurallarından değildir?",
+    "option1": "A) Her silaha dolu muamelesi yap",
+    "option2": "B) Ateş etmeye karar vermedikçe parmağını tetik korkuluğuna sokma",
+    "option3": "C) Ateş etmeye karar vermedikçe namluyu ölü noktaya tut",
+    "option4": "D) Hedefini bil, çevresini dikkate al",
+    "option5": "E)Şarjör çıkarmadan silahı sökmeye başla",
+    "answer": "E)Şarjör çıkarmadan silahı sökmeye başla"
+  },
+  {
+    "question": " 109 Aşağıdakilerden hangisi silahlı görev yapan özel güvenlik görevlisinin özelliklerinden biri değildir?",
+    "option1": "A) Silah bakımına özen göstermez",
+    "option2": "B) Silahını güvenli kullanır",
+    "option3": "C) Silahını tanır",
+    "option4": "D) Silahını kanun ve kurallara uygun kullanır",
+    "option5": "E)Silahını korur",
+    "answer": "A) Silah bakımına özen göstermez"
+  },
+  {
+    "question": " 110 Gez ve arpacık yarı otomatik tabancanın hangi ana parçası üzerinde bulunur?",
+    "option1": "A) İğne mekanizması",
+    "option2": "B) Namlu",
+    "option3": "C) Sürgü (Kapak)",
+    "option4": "D) Şarjör",
+    "option5": "E)Çerçeve (Gövde)",
+    "answer": "C) Sürgü (Kapak)"
+  },
+  {
+    "question": " 111 Aşağıdaki şıklardan hangisi, tabancanın ana parçalarından olan çerçevede (gövde)yer almaz?",
+    "option1": "A) Kabza",
+    "option2": "B) Yerine getiren yay",
+    "option3": "C) Tetik korkuluğu",
+    "option4": "D) Şarjör mandalı",
+    "option5": "E)Tetik",
+    "answer": "B) Yerine getiren yay"
+  },
+  {
+    "question": " 112 Aşağıdakilerden hangisi silahın tertibatlarından değildir?",
+    "option1": "A) Ateşleme tertibatı",
+    "option2": "B) Kovan atma tertibatı",
+    "option3": "C) Namlu tertibatı",
+    "option4": "D) Emniyet tertibatı",
+    "option5": "E)Nişan tertibatı",
+    "answer": "B) Kovan atma tertibatı"
+  },
+  {
+    "question": " 113 Ateşlenen fişek çekirdeğine yön ve istikamet vermeye yarayan metal boruya .........denir.” cümlesindeki boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "option1": "A) Namlu",
+    "option2": "B) Çap",
+    "option3": "C) Fişek Yatağı",
+    "option4": "D) Kabza",
+    "option5": "E)Çıkarıcı",
+    "answer": "A) Namlu"
+  },
+  {
+    "question": " 114 Tabancanın atış esnasında elle tutulduğu bölümüne ne denir?",
+    "option1": "A) Kabza",
+    "option2": "B) Sürgü",
+    "option3": "C) Şarjör Yuvası",
+    "option4": "D) Horoz",
+    "option5": "E)Sürgü tutucu",
+    "answer": "A) Kabza"
+  },
+  {
+    "question": " 115  Parmağın nişan hattına paralel ters bir kuvvetle tetiğe artan oranda baskı yapmasına ne denir?",
+    "option1": "A) Horoz kaldırma",
+    "option2": "B) Dolduruş yapma",
+    "option3": "C) Nişan alma",
+    "option4": "D) Tetik ezme",
+    "option5": "E)Şarjör çıkarma",
+    "answer": "D) Tetik ezme"
+  },
+  {
+    "question": " 116  Aşağıdakilerden hangisi toplu tabancalardaki emniyet sistemidir?",
+    "option1": "A) İğne emniyeti",
+    "option2": "B) Kabza emniyeti",
+    "option3": "C) Emniyet tertibatı yoktur",
+    "option4": "D) Şarjör emniyeti",
+    "option5": "E)Horoz emniyeti",
+    "answer": "C) Emniyet tertibatı yoktur"
+  },
+  {
+    "question": " 117  Nişan tertibatı aşağıdaki şıklardan hangisinde doğru olarak verilmiştir.",
+    "option1": "A) Gez, tırnak ve arpacık",
+    "option2": "B) Arpacık, gez ve horoz",
+    "option3": "C) İğne ve arpacık",
+    "option4": "D) Gez ve arpacık",
+    "option5": "E)Arpacık, gez ve iğne",
+    "answer": "D) Gez ve arpacık"
+  },
+  {
+    "question": " 118 Aşağıdakilerden hangisi gövde üzerinde bulunur?",
+    "option1": "A) Tetik",
+    "option2": "B) Şarjör tüpü",
+    "option3": "C) Çekirdek",
+    "option4": "D) Boş kovan",
+    "option5": "E)Kapsül",
+    "answer": "A) Tetik"
+  },
+  {
+    "question": " 119 Atış yapılan tabancanın sürgüsünün geride kalması, aşağıdakilerin hangisinin neticesinde olur?",
+    "option1": "A) Namlunun ısınması",
+    "option2": "B) Tabancanın iğnesinin kırılması",
+    "option3": "C) Şarjörün tabancadan çıkması",
+    "option4": "D) Şarjörde fişeğin bitmesi",
+    "option5": "E)Şarjör kilidinin bozuk olması",
+    "answer": "D) Şarjörde fişeğin bitmesi"
+  },
+  {
+    "question": " 120 Aşağıdakilerden hangisi silahın parçalarından değildir?",
+    "option1": "A) Namlu",
+    "option2": "B) Sürgü",
+    "option3": "C) Kabza",
+    "option4": "D) Horoz",
+    "option5": "E)Harbi",
+    "answer": "E)Harbi"
+  },
+  {
+    "question": " 121 Aşağıdakilerden hangisi ateşsiz silahlardan değildir?",
+    "option1": "A) Topuz",
+    "option2": "B) Tabanca",
+    "option3": "C) Pala",
+    "option4": "D) Kılıç",
+    "option5": "E)Kama",
+    "answer": "B) Tabanca"
+  },
+  {
+    "question": " 122 Aşağıdakilerden hangisi silahın ateş almamasının nedenlerinden olabilir?",
+    "option1": "A) Gez ayarsız olabilir",
+    "option2": "B) Fişek arızalı olabilir",
+    "option3": "C) Sürgü kilit dişleri aşınmış olabilir",
+    "option4": "D) Namlu içindeki yiv ve setler aşınmış olabilir",
+    "option5": "E)Kabza kapakları kırık olabilir",
+    "answer": "B) Fişek arızalı olabilir"
+  },
+  {
+    "question": " 123 9 X 19 mm fişekte 19 rakamı neyi ifade etmektedir?",
+    "option1": "A) Çekirdek çapını",
+    "option2": "B) Çekirdek boyunu",
+    "option3": "C) Kovan çapını",
+    "option4": "D) Kovan boyunu",
+    "option5": "E)Kapsül boyunu",
+    "answer": "D) Kovan boyunu"
+  },
+  {
+    "question": " 124 Aşağıdakilerden hangisi silahlı ÖGG Kemal’in görev silahını teslim ederken ve alırken uyacağı kurallardan biridir?",
+    "option1": "A) Namluyu rastgele bir noktaya çevirir",
+    "option2": "B) Silahın dolu mu, boş mu olduğunu kontrol etmeden alır/verir",
+    "option3": "C) Fişekleri kontrol etmeden alır/verir",
+    "option4": "D) Silahı devir-teslim ve rapor defterine işler",
+    "option5": "E)Görev silahını evine götürür",
+    "answer": "D) Silahı devir-teslim ve rapor defterine işle"
+  },
+  {
+    "question": " 125  Aşağıdakilerden hangisi silah değildir?",
+    "option1": "A) Tabanca",
+    "option2": "B) Tüfek",
+    "option3": "C) Kama",
+    "option4": "D) Bomba",
+    "option5": "E)X-Ray cihazı",
+    "answer": "E)X-Ray cihazı"
+  }
+]
