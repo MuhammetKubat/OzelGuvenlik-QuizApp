@@ -5,6 +5,7 @@
 * [Setup | Kurulum](#Setup-Kurulum)
 * [Emulator Photo | Result](#Emulator-Photo-Result)
 * [Detail | Design |Açıklama ](#Detail-Design-Açıklama )
+* [ GoogleAppDeploy-yayında ](# GoogleAppDeploy-yayında )
 
 ## Genel Bilgi 
 Bu proje Kotlin & Android Studio ile simple quiz app yapılmıştır.
@@ -31,3 +32,6 @@ Dosyayalama isimleri
 ![Untitled-2](https://user-images.githubusercontent.com/38388188/210099519-0ac5f606-6cfb-4543-8a62-09d5d06f2eba.png)
 ## Detail-Design-Açıklama  
 ![image](https://user-images.githubusercontent.com/38388188/210100624-159d6470-f056-4a6f-b55e-86d7e4fb3a49.png)
+## GoogleAppDeploy-yayında	
+
+https://play.google.com/store/apps/details?id=com.nmproject.quizapp&pli=1
