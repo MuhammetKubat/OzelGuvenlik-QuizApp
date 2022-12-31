@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyOggProject.iml" filepath="$PROJECT_DIR$/.idea/modules/MyOggProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyOggProject.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

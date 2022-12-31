@@ -8,7 +8,7 @@
 
 ## Genel Bilgi 
 Bu proje Kotlin & Android Studio ile simple quiz app yapılmıştır.
-	
+
 ## Teknoloji-Pac.	
 Proje aşağıdaki packages onuşturulmuştur;
 * 'androidx.core:core-ktx:1.7.0'

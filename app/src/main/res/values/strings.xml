@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GüvenlikSoruları2023</string>
+    <string name="sonuc">Sonuç</string>
+    <string name="_10">120</string>
+    <string name="simge">/</string>
+    <string name="_Ten">120</string>
+    <string name="performans">PERFORMANS</string>
+    <string name="Text_ogg">ÖZEL GÜVENLİK GÖREVLİSİ</string>
+    <string name="h2_text">DÖNEM | LİSTE SAYFASI</string>
+    <string name="son_5">SON 5</string>
+</resources>
